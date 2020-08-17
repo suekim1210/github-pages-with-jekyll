@@ -1,4 +1,4 @@
 ---
-title: Sue's Blog
+title: "Sue's Blog"
 date: 2020-08-17
 ---
